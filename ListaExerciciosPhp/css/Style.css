@@ -1,0 +1,151 @@
+
+.bg_video{
+	position: fixed; 
+	right: 0; 
+	bottom: 0;
+	min-width: 100%; 
+	min-height: 100%;
+	width: auto; 
+	height: auto; 
+	background: url(img/fundo.jpg) no-repeat;
+	background-size: cover; 
+}
+.menu{
+    background-color: white;
+    width: 37%;
+    height: 58%;
+    margin-top: 9%;
+    margin-left: 30%;
+    position: absolute;
+    opacity: 0.9;
+    border-radius: 2%;    
+}
+#txtLink1{
+    margin-left: 3%;
+    font-size: 210%;
+    font-family: 'Raleway' ;
+    text-decoration-line: none;
+    color: black;
+    opacity: 1;
+}
+#txtLink2{
+    margin-left: 3%;
+    font-size: 210%;
+    font-family: 'Raleway' ;
+    text-decoration-line: none;
+    color: #131313;
+    opacity: 1;
+}
+#txtLink3{
+    margin-left: 3%;
+    font-size: 210%;
+    font-family: 'Raleway' ;
+    text-decoration-line: none;
+    color: #131313;
+    opacity: 1;
+}
+#txtLink4{
+    margin-left: 3%;
+    font-size: 210%;
+    font-family: 'Raleway' ;
+    text-decoration-line: none;
+    color: #131313;
+    opacity: 1;
+}
+#txtLink5{
+    margin-left: 3%;
+    font-size: 210%;
+    font-family: 'Raleway' ;
+    text-decoration-line: none;
+    color: black;
+    opacity: 1;
+}
+#txtLink6{
+    margin-left: 3%;
+    font-size: 210%;
+    font-family: 'Raleway' ;
+    text-decoration-line: none;
+    color: black;
+    opacity: 1;
+}
+#txtLink7{
+    margin-left: 3%;
+    font-size: 210%;
+    font-family: 'Raleway' ;
+    text-decoration-line: none;
+    color: black;
+    opacity: 1;
+}
+#txtLink8{
+    margin-left: 3%;
+    font-size: 210%;
+    font-family: 'Raleway' ;
+    text-decoration-line: none;
+    color: black;
+    opacity: 1;
+}
+#rodape{
+    margin-top: 45%;
+    position: absolute;
+    margin-left: 45%;
+}
+#txtNome{
+    font-family: 'Raleway' ;
+    font-size: 180%;
+    color: white;
+}
+#txtTitulo1{
+    font-size: 160%;
+    margin-left: 4%;
+    font-family: 'Raleway' ;
+    color: black;
+}
+#txtInfo1{
+    font-size: 160%;
+    margin-left: 14%;
+    font-family: 'Raleway' ;
+    color: black;
+}
+#txtVoltar{
+    font-size: 160%;
+    margin-left: 80%;
+    font-family: 'Raleway' ;
+    color: black;
+    text-decoration: none;
+}
+#txtTitulo2{
+    font-size: 160%;
+    margin-left: 32%;
+    font-family: 'Raleway' ;
+    color: black;
+}
+#txtInfo2{
+    font-size: 160%;
+    margin-left: 24%;
+    font-family: 'Raleway' ;
+    color: black;
+}
+#btnEnviar{
+    margin-left: 40%;
+}
+#txtTitulo3{
+    font-size: 160%;
+    margin-left: 22%;
+    font-family: 'Raleway' ;
+    color: black;
+}
+#txtTitulo4{
+    font-size: 160%;
+    margin-left: 22%;
+    font-family: 'Raleway' ;
+    color: black;
+}
+#txtInfo4{
+    font-size: 160%;
+    margin-left: 20%;
+    font-family: 'Raleway' ;
+    color: black;
+}
+#txtFuncao{
+    margin-left: 14%;
+}
