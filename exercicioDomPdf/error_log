@@ -1,0 +1,6 @@
+[24-Feb-2019 14:38:34 America/Chicago] PHP Warning:  include(../../usuario/verificar-sessao-usuario.php): failed to open stream: No such file or directory in /home/sosapren/public_html/pdf/index.php on line 3
+[24-Feb-2019 14:38:34 America/Chicago] PHP Warning:  include(../../usuario/verificar-sessao-usuario.php): failed to open stream: No such file or directory in /home/sosapren/public_html/pdf/index.php on line 3
+[24-Feb-2019 14:38:34 America/Chicago] PHP Warning:  include(): Failed opening '../../usuario/verificar-sessao-usuario.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/sosapren/public_html/pdf/index.php on line 3
+[24-Feb-2019 14:38:34 America/Chicago] PHP Warning:  include(../../usuario/autorizacao.php): failed to open stream: No such file or directory in /home/sosapren/public_html/pdf/index.php on line 4
+[24-Feb-2019 14:38:34 America/Chicago] PHP Warning:  include(../../usuario/autorizacao.php): failed to open stream: No such file or directory in /home/sosapren/public_html/pdf/index.php on line 4
+[24-Feb-2019 14:38:34 America/Chicago] PHP Warning:  include(): Failed opening '../../usuario/autorizacao.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/sosapren/public_html/pdf/index.php on line 4
