@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Calculadora</title>
+</head>
+
+<body>
+    <h1> Calculadora </h1>
+    <br>
+    <form name="frmCalculadora">
+        <label for txtN1 id="lblN1">Digite um número: </label>
+        <input type="text" id="txtN1" placeholder="Digite um número">
+        <br><br>
+        <label for txtN2 id="lblN2">Digite um número:</label>
+        <input type="text" id="txtN2" placeholder="Digite um número"><br>
+        <input type="button" value="Somar" onclick="soma()">
+        <input type="button" value="Alterar cor" onclick="alteraCor()">
+        <button type="submit">Limpar</button><br><br>
+        <label for txtResult>Resultado:</label>
+        <input type="text" id="txtResult" readonly value=''>
+        <br><br>
+        <label for slcSexo> Selecione seu sexo </label>
+        <select id='slcSexo' name='slcSexo'>
+            <option selected> Escolha a opção desejada </option>
+            <option value='1'>Feminino</option>
+            <option value='2'>Masculino</option>
+            <option value='3'>Outros</option>
+        </select>
+        <br><br>
+        <label id="fraseSexo">Aqui</label>
+
+    </form>
+
+    <script src="js/main.js"></script>
+</body>
+
+</html>
